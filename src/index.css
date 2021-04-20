@@ -13,10 +13,17 @@ body{
     display: flex;
     flex-direction: column;
 }
-.Row{
+
+.container{
     margin-top: 50px;
 }
-
+.card-deck{
+display: flex;
+justify-content: flex-start;
+}
+.card{
+    margin-top:20px;  
+}
 /* 
 .indoCard{
     margin-top:15px;

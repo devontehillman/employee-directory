@@ -9,6 +9,8 @@ function EmployeeCardDeck() {
         <EmployeeCard/>
         <EmployeeCard/>
         <EmployeeCard/>
+        <EmployeeCard/>
+        <EmployeeCard/>
         </CardDeck>
     )
 }
